@@ -4,3 +4,5 @@
 
 ##contact me
 
+##tegnologies
+-pseint
