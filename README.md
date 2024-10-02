@@ -4,3 +4,8 @@
 
 ##contact me
 
+##hobbies
+leer
+comer
+ver titkotk
+
