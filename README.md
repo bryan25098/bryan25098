@@ -4,3 +4,6 @@
 
 ##contact me
 
+## skills
+- pensamiento critico
+
